@@ -1,6 +1,6 @@
-| Alien Name     | Image File                                       |
-|----------------|--------------------------------------------------|
-| 25-wings       | <img src="25-wings.png" width="100">            |
+| Alien Name     | Image File                                       |  Could use for     |  Used     |
+|----------------|--------------------------------------------------|--------------------|-----------|
+| 25-wings       | <img src="25-wings.png" width="100">             | 
 | Alien X        | <img src="Alien%20X.png" width="100">            |
 | AmpFibian      | <img src="AmpFibian.png" width="100">            |
 | Arctiguana     | <img src="Arctiguana.png" width="100">           |

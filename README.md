@@ -1,3 +1,13 @@
+# Ben 10 Alien Image Repository
+
+This repository contains images of most of the Ben 10 aliens. The primary purpose of this repository is to provide access to these images as part of my homelab naming convention.
+
+## Copyright Notice
+
+I do not own the copyright to these images and do not intend to infringe on any rights. If you own the rights to any of these images, please message me so that I can take appropriate action.
+
+# Alien Images
+
 | Alien Name     | Image File                                       |
 |----------------|--------------------------------------------------|
 | 25-wings       | <img src="25-wings.png" width="100">             | 

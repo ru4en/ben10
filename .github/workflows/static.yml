@@ -31,7 +31,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
           README.md
-    - run: mkdir ./dist/images/ && cp ./*.png ./dist/images/
+    - run: cp ./*.png ./dist/
     - uses: actions/upload-pages-artifact@v3
       with:
         path: dist

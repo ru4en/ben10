@@ -8,66 +8,67 @@ I do not own the copyright to these images and do not intend to infringe on any 
 
 # Alien Images
 
-| Alien Name     | Image File                                       |
-|----------------|--------------------------------------------------|
-| 25-wings       | <img src="25-wings.png" width="100">             | 
-| Alien X        | <img src="Alien%20X.png" width="100">            |
-| AmpFibian      | <img src="AmpFibian.png" width="100">            |
-| Arctiguana     | <img src="Arctiguana.png" width="100">           |
-| Armodrillo     | <img src="Armodrillo.png" width="100">           |
-| Astrodactyl    | <img src="Astrodactyl.png" width="100">          |
-| Atomix         | <img src="Atomix.png" width="100">               |
-| Ball Weevil    | <img src="Ball%20Weevil.png" width="100">        |
-| Big Chill      | <img src="Big%20Chill.png" width="100">          |
-| Blitzwolfer    | <img src="Blitzwolfer.png" width="100">          |
-| Bloxx          | <img src="Bloxx.png" width="100">                |
-| Brainstorm     | <img src="Brainstorm.png" width="100">           |
-| Buzzshock      | <img src="Buzzshock.png" width="100">            |
-| Cannonbolt     | <img src="Cannonbolt.png" width="100">           |
-| ChamAlien      | <img src="ChamAlien.png" width="100">            |
-| Chromastone    | <img src="Chromastone.png" width="100">          |
-| Clockwork      | <img src="Clockwork.png" width="100">            |
-| Crashhopper    | <img src="Crashhopper.png" width="100">          |
-| Diamondhead    | <img src="Diamondhead.png" width="100">          |
-| Ditto          | <img src="Ditto.png" width="100">                |
-| Eatle          | <img src="Eatle.png" width="100">                |
-| Echo Echo      | <img src="Echo%20Echo.png" width="100">          |
-| Eye Guy        | <img src="Eye%20Guy.png" width="100">            |
-| Fasttrack      | <img src="Fasttrack.png" width="100">            |
-| Feedback       | <img src="Feedback.png" width="100">             |
-| Four Arms      | <img src="Four%20Arms.png" width="100">          |
-| Frankenstrike  | <img src="Frankenstrike.png" width="100">        |
-| Ghostfreak     | <img src="Ghostfreak.png" width="100">           |
-| Goop           | <img src="Goop.png" width="100">                 |
-| Gravattack     | <img src="Gravattack.png" width="100">           |
-| Grey Matter    | <img src="Grey%20Matter.png" width="100">        |
-| Gutrot         | <img src="Gutrot.png" width="100">               |
-| Heatblast      | <img src="Heatblast.png" width="100">            |
-| Humungousaur   | <img src="Humungousaur.png" width="100">         |
-| Jetray         | <img src="Jetray.png" width="100">               |
-| Jury Rigg      | <img src="Jury%20Rigg.png" width="100">          |
-| Lodestar       | <img src="Lodestar.png" width="100">             |
-| Mole-Stache    | <img src="Mole-Stache.png" width="100">          |
-| Murk Upchuck   | <img src="Murk%20Upchuck.png" width="100">      |
-| Nanomech       | <img src="Nanomech.png" width="100">             |
-| NRG            | <img src="NRG.png" width="100">                  |
-| Pesky Dust     | <img src="Pesky%20Dust.png" width="100">         |
-| Rath           | <img src="Rath.png" width="100">                 |
-| Ripjaws        | <img src="Ripjaws.png" width="100">              |
-| Shocksquatch   | <img src="Shocksquatch.png" width="100">         |
-| Snare-oh       | <img src="Snare-oh.png" width="100">             |
-| Spidermonkey   | <img src="Spidermonkey.png" width="100">         |
-| Stinkfly       | <img src="Stinkfly.png" width="100">             |
-| Swampfire      | <img src="Swampfire.png" width="100">            |
-| Terraspin      | <img src="Terraspin.png" width="100">            |
-| The Worst      | <img src="The%20Worst.png" width="100">          |
-| Toepick        | <img src="Toepick.png" width="100">              |
-| Upchuck        | <img src="Upchuck.png" width="100">              |
-| Upgrade        | <img src="Upgrade.png" width="100">              |
-| Walkatrout     | <img src="Walkatrout.png" width="100">           |
-| Water Hazard   | <img src="Water%20Hazard.png" width="100">       |
-| Way Big        | <img src="Way%20Big.png" width="100">            |
-| Whampire       | <img src="Whampire.png" width="100">             |
-| Wildmutt       | <img src="Wildmutt.png" width="100">             |
-| Wildvine       | <img src="Wildvine.png" width="100">             |
-| XLR8           | <img src="XLR8.png" width="100">                 |
+| Alien Name    | Image File                                                                                                                     | **Description**                                                                                          |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 25-wings      | [![](https://github.com/ru4en/ben10/raw/main/25-wings.png)](https://github.com/ru4en/ben10/blob/main/25-wings.png)             | Equipped with 25 wings, allowing it to fly at incredible speeds and agility.                             |
+| Alien X       | [![](https://github.com/ru4en/ben10/raw/main/Alien%20X.png)](https://github.com/ru4en/ben10/blob/main/Alien%20X.png)           | Has reality-altering abilities, capable of manipulating time, space, and matter.                         |
+| AmpFibian     | [![](https://github.com/ru4en/ben10/raw/main/AmpFibian.png)](https://github.com/ru4en/ben10/blob/main/AmpFibian.png)           | Electric powers and the ability to swim and survive underwater, with tentacles for combat.               |
+| Arctiguana    | [![](https://github.com/ru4en/ben10/raw/main/Arctiguana.png)](https://github.com/ru4en/ben10/blob/main/Arctiguana.png)         | Can freeze objects and enemies with a powerful ice breath.                                               |
+| Armodrillo    | [![](https://github.com/ru4en/ben10/raw/main/Armodrillo.png)](https://github.com/ru4en/ben10/blob/main/Armodrillo.png)         | Enhanced strength and durability, with drilling and tunneling capabilities.                              |
+| Astrodactyl   | [![](https://github.com/ru4en/ben10/raw/main/Astrodactyl.png)](https://github.com/ru4en/ben10/blob/main/Astrodactyl.png)       | Can fly at high speeds and shoot energy beams from its wings.                                            |
+| Atomix        | [![](https://github.com/ru4en/ben10/raw/main/Atomix.png)](https://github.com/ru4en/ben10/blob/main/Atomix.png)                 | Possesses immense strength and can generate powerful nuclear energy blasts.                              |
+| Ball Weevil   | [![](https://github.com/ru4en/ben10/raw/main/Ball%20Weevil.png)](https://github.com/ru4en/ben10/blob/main/Ball%20Weevil.png)   | Capable of creating explosive balls of energy for combat.                                                |
+| Big Chill     | [![](https://github.com/ru4en/ben10/raw/main/Big%20Chill.png)](https://github.com/ru4en/ben10/blob/main/Big%20Chill.png)       | Can become intangible, fly, and manipulate ice by freezing enemies.                                      |
+| Blitzwolfer   | [![](https://github.com/ru4en/ben10/raw/main/Blitzwolfer.png)](https://github.com/ru4en/ben10/blob/main/Blitzwolfer.png)       | Werewolf-like alien with sonic howls that can shatter objects and strong claws.                          |
+| Bloxx         | [![](https://github.com/ru4en/ben10/raw/main/Bloxx.png)](https://github.com/ru4en/ben10/blob/main/Bloxx.png)                   | Can shape-shift into various forms using its building-block-like body.                                   |
+| Brainstorm    | [![](https://github.com/ru4en/ben10/raw/main/Brainstorm.png)](https://github.com/ru4en/ben10/blob/main/Brainstorm.png)         | Genius-level intellect with the ability to shoot electricity from its brain.                             |
+| Buzzshock     | [![](https://github.com/ru4en/ben10/raw/main/Buzzshock.png)](https://github.com/ru4en/ben10/blob/main/Buzzshock.png)           | Can generate and control electricity, and enter electronic devices.                                      |
+| Cannonbolt    | [![](https://github.com/ru4en/ben10/raw/main/Cannonbolt.png)](https://github.com/ru4en/ben10/blob/main/Cannonbolt.png)         | Rolls into a nearly indestructible ball, capable of high-speed attacks.                                  |
+| ChamAlien     | [![](https://github.com/ru4en/ben10/raw/main/ChamAlien.png)](https://github.com/ru4en/ben10/blob/main/ChamAlien.png)           | Has the ability to blend into surroundings and become invisible.                                         |
+| Chromastone   | [![](https://github.com/ru4en/ben10/raw/main/Chromastone.png)](https://github.com/ru4en/ben10/blob/main/Chromastone.png)       | Absorbs and redirects energy attacks, and can create powerful energy blasts.                             |
+| Clockwork     | [![](https://github.com/ru4en/ben10/raw/main/Clockwork.png)](https://github.com/ru4en/ben10/blob/main/Clockwork.png)           | Can control time, rewind and fast-forward events, and shoot time rays.                                   |
+| Crashhopper   | [![](https://github.com/ru4en/ben10/raw/main/Crashhopper.png)](https://github.com/ru4en/ben10/blob/main/Crashhopper.png)       | High agility and jumping abilities, with strong kicks that create shockwaves.                            |
+| Diamondhead   | [![](https://github.com/ru4en/ben10/raw/main/Diamondhead.png)](https://github.com/ru4en/ben10/blob/main/Diamondhead.png)       | Can generate and manipulate crystal structures for offense and defense.                                  |
+| Ditto         | [![](https://github.com/ru4en/ben10/raw/main/Ditto.png)](https://github.com/ru4en/ben10/blob/main/Ditto.png)                   | Can duplicate itself multiple times, each clone acting independently.                                    |
+| Eatle         | [![](https://github.com/ru4en/ben10/raw/main/Eatle.png)](https://github.com/ru4en/ben10/blob/main/Eatle.png)                   | Has a powerful bite and can consume and digest nearly anything.                                          |
+| Echo Echo     | [![](https://github.com/ru4en/ben10/raw/main/Echo%20Echo.png)](https://github.com/ru4en/ben10/blob/main/Echo%20Echo.png)       | Emits sonic screams that can disorient or damage opponents, and can duplicate itself.                    |
+| Eye Guy       | [![](https://github.com/ru4en/ben10/raw/main/Eye%20Guy.png)](https://github.com/ru4en/ben10/blob/main/Eye%20Guy.png)           | Covered in eyes that shoot energy beams, with enhanced perception abilities.                             |
+| Fasttrack     | [![](https://github.com/ru4en/ben10/raw/main/Fasttrack.png)](https://github.com/ru4en/ben10/blob/main/Fasttrack.png)           | Super speed and agility, capable of outrunning nearly anything.                                          |
+| Feedback      | [![](https://github.com/ru4en/ben10/raw/main/Feedback.png)](https://github.com/ru4en/ben10/blob/main/Feedback.png)             | Can absorb and manipulate energy, redirecting it as powerful blasts.                                     |
+| Four Arms     | [![](https://github.com/ru4en/ben10/raw/main/Four%20Arms.png)](https://github.com/ru4en/ben10/blob/main/Four%20Arms.png)       | Possesses super strength and durability, with four powerful arms for combat.                             |
+| Frankenstrike | [![](https://github.com/ru4en/ben10/raw/main/Frankenstrike.png)](https://github.com/ru4en/ben10/blob/main/Frankenstrike.png)   | Electricity-based powers, with super strength and the ability to control machinery.                      |
+| Ghostfreak    | [![](https://github.com/ru4en/ben10/raw/main/Ghostfreak.png)](https://github.com/ru4en/ben10/blob/main/Ghostfreak.png)         | Can become intangible, invisible, and possess others, with some ghostly powers.                          |
+| Goop          | [![](https://github.com/ru4en/ben10/raw/main/Goop.png)](https://github.com/ru4en/ben10/blob/main/Goop.png)                     | A gelatinous form that can stretch, shape-shift, and stick to surfaces, with a flying anti-gravity disc. |
+| Gravattack    | [![](https://github.com/ru4en/ben10/raw/main/Gravattack.png)](https://github.com/ru4en/ben10/blob/main/Gravattack.png)         | Can control gravity, allowing it to increase or decrease the weight of objects.                          |
+| Grey Matter   | [![](https://github.com/ru4en/ben10/raw/main/Grey%20Matter.png)](https://github.com/ru4en/ben10/blob/main/Grey%20Matter.png)   | A small but incredibly intelligent alien, capable of understanding complex technologies.                 |
+| Gutrot        | [![](https://github.com/ru4en/ben10/raw/main/Gutrot.png)](https://github.com/ru4en/ben10/blob/main/Gutrot.png)                 | Can produce and emit various gases with different effects, including toxins.                             |
+| Heatblast     | [![](https://github.com/ru4en/ben10/raw/main/Heatblast.png)](https://github.com/ru4en/ben10/blob/main/Heatblast.png)           | Can generate and control fire, with powerful fire-based attacks.                                         |
+| Humungousaur  | [![](https://github.com/ru4en/ben10/raw/main/Humungousaur.png)](https://github.com/ru4en/ben10/blob/main/Humungousaur.png)     | Massive strength and durability, with the ability to grow in size, increasing its power.                 |
+| Jetray        | [![](https://github.com/ru4en/ben10/raw/main/Jetray.png)](https://github.com/ru4en/ben10/blob/main/Jetray.png)                 | Can fly at supersonic speeds and shoot neuroshock blasts.                                                |
+| Jury Rigg     | [![](https://github.com/ru4en/ben10/raw/main/Jury%20Rigg.png)](https://github.com/ru4en/ben10/blob/main/Jury%20Rigg.png)       | Has the ability to dismantle and reassemble machines, often improving them.                              |
+| Lodestar      | [![](https://github.com/ru4en/ben10/raw/main/Lodestar.png)](https://github.com/ru4en/ben10/blob/main/Lodestar.png)             | Controls magnetism, allowing it to attract and repel metallic objects.                                   |
+| Mole-Stache   | [![](https://github.com/ru4en/ben10/raw/main/Mole-Stache.png)](https://github.com/ru4en/ben10/blob/main/Mole-Stache.png)       | A mustachioed alien that can dig through the earth with great speed.                                     |
+| Murk Upchuck  | [![](https://github.com/ru4en/ben10/raw/main/Murk%20Upchuck.png)](https://github.com/ru4en/ben10/blob/main/Murk%20Upchuck.png) | Can consume and digest any material, turning it into energy blasts.                                      |
+| Nanomech      | [![](https://github.com/ru4en/ben10/raw/main/Nanomech.png)](https://github.com/ru4en/ben10/blob/main/Nanomech.png)             | A tiny alien with the ability to shrink further and shoot energy blasts.                                 |
+| NRG           | [![](https://github.com/ru4en/ben10/raw/main/NRG.png)](https://github.com/ru4en/ben10/blob/main/NRG.png)                       | Possesses immense heat-based powers, encased in a protective suit.                                       |
+| Pesky Dust    | [![](https://github.com/ru4en/ben10/raw/main/Pesky%20Dust.png)](https://github.com/ru4en/ben10/blob/main/Pesky%20Dust.png)     | A small fairy-like alien that can induce sleep and create hallucinations.                                |
+| Rath          | [![](https://github.com/ru4en/ben10/raw/main/Rath.png)](https://github.com/ru4en/ben10/blob/main/Rath.png)                     | Enhanced strength and combat skills, with a ferocious and aggressive nature.                             |
+| Ripjaws       | [![](https://github.com/ru4en/ben10/raw/main/Ripjaws.png)](https://github.com/ru4en/ben10/blob/main/Ripjaws.png)               | Aquatic abilities with sharp teeth and claws, capable of swimming at high speeds.                        |
+| Shocksquatch  | [![](https://github.com/ru4en/ben10/raw/main/Shocksquatch.png)](https://github.com/ru4en/ben10/blob/main/Shocksquatch.png)     | A sasquatch-like alien with electrical powers and super strength.                                        |
+| Snare-oh      | [![](https://github.com/ru4en/ben10/raw/main/Snare-oh.png)](https://github.com/ru4en/ben10/blob/main/Snare-oh.png)             | A mummy-like alien with bandages that can stretch and ensnare enemies.                                   |
+| Spidermonkey  | [![](https://github.com/ru4en/ben10/raw/main/Spidermonkey.png)](https://github.com/ru4en/ben10/blob/main/Spidermonkey.png)     | A spider-monkey hybrid with web-slinging and wall-crawling abilities.                                    |
+| Stinkfly      | [![](https://github.com/ru4en/ben10/raw/main/Stinkfly.png)](https://github.com/ru4en/ben10/blob/main/Stinkfly.png)             | Capable of flight and shooting toxic slime from its eyes.                                                |
+| Swampfire     | [![](https://github.com/ru4en/ben10/raw/main/Swampfire.png)](https://github.com/ru4en/ben10/blob/main/Swampfire.png)           | Plant-based alien with the ability to control plants and generate fire.                                  |
+| Terraspin     | [![](https://github.com/ru4en/ben10/raw/main/Terraspin.png)](https://github.com/ru4en/ben10/blob/main/Terraspin.png)           | Can generate powerful winds by spinning, and has a durable shell for defense.                            |
+| The Worst     | [![](https://github.com/ru4en/ben10/raw/main/The%20Worst.png)](https://github.com/ru4en/ben10/blob/main/The%20Worst.png)       | Nearly indestructible, with high tolerance to pain, but lacks offensive powers.                          |
+| Toepick       | [![](https://github.com/ru4en/ben10/raw/main/Toepick.png)](https://github.com/ru4en/ben10/blob/main/Toepick.png)               | Has a grotesque face under its mask that can induce fear in others.                                      |
+| Upchuck       | [![](https://github.com/ru4en/ben10/raw/main/Upchuck.png)](https://github.com/ru4en/ben10/blob/main/Upchuck.png)               | Can consume anything and convert it into explosive energy blasts.                                        |
+| Upgrade       | [![](https://github.com/ru4en/ben10/raw/main/Upgrade.png)](https://github.com/ru4en/ben10/blob/main/Upgrade.png)               | Can merge with technology, upgrading and controlling it.                                                 |
+| Walkatrout    | [![](https://github.com/ru4en/ben10/raw/main/Walkatrout.png)](https://github.com/ru4en/ben10/blob/main/Walkatrout.png)         | A fish-like alien with enhanced swimming abilities and the power to escape any trap.                     |
+| Water Hazard  | [![](https://github.com/ru4en/ben10/raw/main/Water%20Hazard.png)](https://github.com/ru4en/ben10/blob/main/Water%20Hazard.png) | Can generate and manipulate water, shooting high-pressure water streams.                                 |
+| Way Big       | [![](https://github.com/ru4en/ben10/raw/main/Way%20Big.png)](https://github.com/ru4en/ben10/blob/main/Way%20Big.png)           | Gigantic alien with immense strength and cosmic energy beams.                                            |
+| Whampire      | [![](https://github.com/ru4en/ben10/raw/main/Whampire.png)](https://github.com/ru4en/ben10/blob/main/Whampire.png)             | A vampire-like alien with the ability to drain energy and hypnotize others.                              |
+| Wildmutt      | [![](https://github.com/ru4en/ben10/raw/main/Wildmutt.png)](https://github.com/ru4en/ben10/blob/main/Wildmutt.png)             | Enhanced senses, agility, and strength, though lacks vision.                                             |
+| Wildvine      | [![](https://github.com/ru4en/ben10/raw/main/Wildvine.png)](https://github.com/ru4en/ben10/blob/main/Wildvine.png)             | A plant-based alien with stretching vines and the ability to control plants.                             |
+| XLR8          | [![](https://github.com/ru4en/ben10/raw/main/XLR8.png)](https://github.com/ru4en/ben10/blob/main/XLR8.png)                     | Super speed and reflexes, with the ability to run on any surface.                                        |
+
